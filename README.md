@@ -3,6 +3,8 @@
   ## Table of Contents:
   - #### [Installation](#installation)
   - #### [Usage](#usage)
+  - #### [Schema](#database-schema)
+  - #### [Snippets](#code-snippets)
   - #### [Demo](#quick-demo)
   - #### [License](#project-license)
   - #### [Contribution](#collaborators)
