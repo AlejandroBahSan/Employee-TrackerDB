@@ -3,7 +3,8 @@
   ## Table of Contents:
   - #### [Installation](#installation)
   - #### [Usage](#usage)
-  - #### [License](#license)
+  - #### [Demo](#quick-demo)
+  - #### [License](#project-license)
   - #### [Contribution](#collaborators)
   - #### [Technologies](#tools)
   - #### [Question](#questions)
@@ -35,7 +36,10 @@ Employee Manager is a CLI designed to be able to perform tasks such as verifying
      height="550"/>
 </a>\
 
-  ## License:
+ ## Quick Demo
+ ![Demo](https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/EmployeeTrackerDemoV.gif)
+ 
+  ## Project License:
   ### MIT https://choosealicense.com/licenses/mit/
   ### Copyright (c) <year> <copyright holders>
 
