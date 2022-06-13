@@ -1,20 +1,43 @@
 # Employee_TrackerDB
- ### MIT 
+ ### [MIT](#license) 
  ### ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
   ## Table of Contents:
-  - ### [Installation](#installation)
-  - ### [Usage](#usage)
-  - ### [License](#license)
-  - ### [Contribution](#collaborators)
-  - ### [Technologies](#tools)
-  - ### [Question](#questions)
-  ## Installation:
+  - #### [Installation](#installation)
+  - #### [Usage](#usage)
+  - #### [License](#license)
+  - #### [Contribution](#collaborators)
+  - #### [Technologies](#tools)
+  - #### [Question](#questions)
+
+ ## Prerequisites
+* [NodeJS](https://nodejs.org/)
+* [MySQL](https://dev.mysql.com/downloads/mysql/)
+  
+  ### Installation:
   ### You must install the following for this app to function:
-  #### To use this application, you will need to first clone this repository and run an `npm install` in your CLI to install the dependencies that have been loaded into the JSON files for you. Once this is done, run `node app.js` in your CLI to start the prompts that will walk you through the various tasks you can perform with this application.
+  #### To use this application, you will need to first clone this repository and run an `npm install` in your CLI to install the dependencies that have been loaded   into the JSON files for you. Once this is done, run `node app.js` in your CLI to start the prompts that will walk you through the various tasks you can perform with this application.
+  
   ## Usage:
-  ### Employee Manager is a CLI app for managing human resources.
+Employee Manager is a CLI designed to be able to perform tasks such as verifying employee roles, salaries and managers for each employee, as well as adding new     roles, employees with their respective salaries to the company's enrollment, all done from your CLI, basically an app for managing human resources.
+
+  ## Database Schema:
+<a href="https://github.com/AlejandroBahSan/AlejandroBahSan">
+  <img align="center" src="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/db-reverseEng.jpg"  width="800" 
+     height="400"/>
+</a>
+
+## Code Snippets
+<a href="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/code-snapshot.png">
+  <img align="left" src="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/code-snapshot.png"  width="485" 
+     height="550"/>
+</a>
+<a href="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/code-snapshot2.png">
+  <img align="right" src="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/code-snapshot2.png"  width="485" 
+     height="550"/>
+</a><br />
+
   ## License:
-  ### MIT 
+  ### MIT https://choosealicense.com/licenses/mit/
   ### Copyright (c) <year> <copyright holders>
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -39,6 +62,16 @@
   #### Alejandro Bahena.
   ## Tools:
   ### ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+ ## Built with:
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [NodeJS](https://nodejs.org/)
+ 
+ * Node Packages:
+    * [MySQL](https://www.npmjs.com/package/mysql)
+    * [Inquirer](https://www.npmjs.com/package/inquirer)
+    * [Console.Table](https://www.npmjs.com/package/console.table)
+    * [ASCII-Art-Font](https://www.npmjs.com/package/ascii-art-font)
+ 
   ## Questions:
   #### Github Profile: AlejandroBahSan
   #### For aditional questions hmu via email: alejandro.bahsan@gmail.com
