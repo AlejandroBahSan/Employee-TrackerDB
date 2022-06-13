@@ -22,34 +22,27 @@
 ## Usage:
 Employee Manager is a CLI designed to be able to perform tasks such as verifying employee roles, salaries and managers for each employee, as well as adding new     roles, employees with their respective salaries to the company's enrollment, all done from your CLI, basically an app for managing human resources.
 
-<div>
  
   ## Database Schema:
 <a href="https://github.com/AlejandroBahSan/AlejandroBahSan">
-  <img align="center" src="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/db-reverseEng.jpg"  width="800" 
-     height="400"/>
+  <img align="center" src="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/db-reverseEng.jpg"  width="800" height="400"/>
 </a>
 
 ## Code Snippets
-<a href="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/code-snapshot.png">
-  <img align="left" src="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/code-snapshot.png"  width="380" 
-     height="550"/>
-</a>
-<a href="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/code-snapshot2.png">
-  <img align="right" src="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/code-snapshot2.png"  width="380" 
-     height="550"/>
-</a><br>
-</div>
+
+<p float="center">
+  <img align="center" src="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/code-snapshot.png" width="400" height="550" />
+  <img align="right"  src="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/code-snapshot2.png" width="400" height="550" /> 
  
- </a>
+</p>
+
+<p>
  
- <div>
- <h1> ## Quick Demo </h1>
+## Quick Demo
 <a href="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/EmployeeTrackerDemoV.gif">
-  <img align="center" src="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/EmployeeTrackerDemoV.gif"  width="auto" 
-     height="auto"/>
-</a>
- </div>
+  <img align="center" src="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/EmployeeTrackerDemoV.gif"  width="auto" height="auto"/>
+</a>  
+</p>
  
  
   ## Project License:
