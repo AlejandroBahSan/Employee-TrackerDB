@@ -1,17 +1,16 @@
 # Employee_TrackerDB
  ### MIT 
  ### ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
- ### https://choosealicense.com/licenses/mit/
   ## Table of Contents:
-  - ## [Installation](#installation)
-  - ## [Usage](#usage)
-  - ## [License](#license)
-  - ## [Contribution](#collaborators)
-  - ## [Technologies](#tools)
-  - ## [Question](#questions)
+  - ### [Installation](#installation)
+  - ### [Usage](#usage)
+  - ### [License](#license)
+  - ### [Contribution](#collaborators)
+  - ### [Technologies](#tools)
+  - ### [Question](#questions)
   ## Installation:
   ### You must install the following for this app to function:
-  ### To use this application, you will need to first clone this repository and run an npm install in your CLI to install the dependencies that have been loaded into the JSON files for you. Once this is done, run node app.js in your CLI to start the prompts that will walk you through the various tasks you can perform with this application.
+  #### To use this application, you will need to first clone this repository and run an `npm install` in your CLI to install the dependencies that have been loaded into the JSON files for you. Once this is done, run `node app.js` in your CLI to start the prompts that will walk you through the various tasks you can perform with this application.
   ## Usage:
   ### Employee Manager is a CLI app for managing human resources.
   ## License:
@@ -37,9 +36,9 @@
     SOFTWARE.
     
   ## Collaborators:
-  ### Alejandro Bahena.
+  #### Alejandro Bahena.
   ## Tools:
   ### ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ## Questions:
-  ### Github Profile: AlejandroBahSan
-  ### For aditional questions hmu via email: alejandro.bahsan@gmail.com
+  #### Github Profile: AlejandroBahSan
+  #### For aditional questions hmu via email: alejandro.bahsan@gmail.com
