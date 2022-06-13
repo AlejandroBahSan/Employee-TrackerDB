@@ -82,4 +82,4 @@ Employee Manager is a CLI designed to be able to perform tasks such as verifying
  
   ## Questions:
   #### Github Profile: AlejandroBahSan
-  #### For aditional questions hmu via email: alejandro.bahsan@gmail.com
+  #### For aditional questions hmu by email: alejandro.bahsan@gmail.com
