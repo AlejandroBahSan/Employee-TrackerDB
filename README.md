@@ -10,14 +10,14 @@
   - #### [Question](#questions)
 
  ## Prerequisites
-* [NodeJS](https://nodejs.org/)
-* [MySQL](https://dev.mysql.com/downloads/mysql/)
+ * [NodeJS](https://nodejs.org/)
+ * [MySQL](https://dev.mysql.com/downloads/mysql/)
   
   ### Installation:
   ### You must install the following for this app to function:
   #### To use this application, you will need to first clone this repository and run an `npm install` in your CLI to install the dependencies that have been loaded   into the JSON files for you. Once this is done, run `node app.js` in your CLI to start the prompts that will walk you through the various tasks you can perform with this application.
   
-  ## Usage:
+## Usage:
 Employee Manager is a CLI designed to be able to perform tasks such as verifying employee roles, salaries and managers for each employee, as well as adding new     roles, employees with their respective salaries to the company's enrollment, all done from your CLI, basically an app for managing human resources.
 
   ## Database Schema:
@@ -34,7 +34,7 @@ Employee Manager is a CLI designed to be able to perform tasks such as verifying
 <a href="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/code-snapshot2.png">
   <img align="right" src="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/code-snapshot2.png"  width="485" 
      height="550"/>
-</a><br />
+</a>\
 
   ## License:
   ### MIT https://choosealicense.com/licenses/mit/
