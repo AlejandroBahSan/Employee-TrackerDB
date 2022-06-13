@@ -39,7 +39,7 @@ Employee Manager is a CLI designed to be able to perform tasks such as verifying
 <p>
  
 ## Quick Demo
- Please check the video clicking on this demo.
+ #### Please check the full video clicking this link [Video](https://drive.google.com/file/d/1K7ASIxJZH_R8FCVPOZcz1G8ozCMpJ3ae/view?usp=sharing).
 <a href="https://drive.google.com/file/d/1K7ASIxJZH_R8FCVPOZcz1G8ozCMpJ3ae/view?usp=sharing">
   <img align="center" src="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/EmployeeTrackerDemoV.gif"  width="auto" height="auto"/>
 </a>  
