@@ -198,14 +198,14 @@ class Queries {
         console.log(arrayRolePosition, arrayNamePosition);
 
 
-        const rolePosition = updateEmployeePrompt.RoleOptions.replace(/\d/g,'');
+        const rolePosition = updateEmployeePrompt.RoleOptions.replace(/\d/g, '');
         console.log("\n                               *******************************************************************")
         console.log("                                                                                                ")
-console.log(`                                           ${updateEmployeePrompt.NameOptions} new role is ${rolePosition}          `)
+        console.log(`                                           ${updateEmployeePrompt.NameOptions} new role is ${rolePosition}          `)
         console.log("                                                                                               ")
         console.log("                               ******************************************************************* \n\n")
 
-                
+
         await connection.promise().query(`
         UPDATE employee
         SET role_id = '?' 
@@ -222,35 +222,5 @@ console.log(`                                           ${updateEmployeePrompt.N
 
 
 
-
-
-
-
-// function filterByID(item) {
-//   if (Number.isFinite(item.id) && item.id !== 0) {
-//     return true
-//   }
-//   invalidEntries++
-//   return false;
-// }
-
-// let arrByID = arr.filter(filterByID)
-
-// console.log('Filtered Array\n', arrByID)
-// // Filtered Array
-// // [{ id: 15 }, { id: -1 }, { id: 3 }, { id: 12.2 }]
-
-
-// Find name and role
-
-//    const index = getAllEmployees.findIndex(x => x.FullName ==="Brandon Flowers")
-//    console.log(getEmployeeRole[index]);
-
-// console.log(result);
-
-
-
-
 module.exports = Queries;
 
-// await setTimeoutPromiseBased(1000);
