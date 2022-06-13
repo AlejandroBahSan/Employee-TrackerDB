@@ -9,10 +9,9 @@ const stringTypeOf = async (input) => {
     // String Regular Expression
     const regex = /^[a-zA-Z]+$/;
     if (input.match(regex) && input.length > 0) {
-        return true;
-
+        return 'Only string type allowed'
     }
-    return 'Only string type allowed'
+    return true;
 };
 
 

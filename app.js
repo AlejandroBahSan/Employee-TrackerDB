@@ -14,7 +14,7 @@ const Queries = require('./query/queries');
 // Welcome messages.
 const init = async () => {
     console.log('\n ' + '='.repeat(100) + '\n');
-    Font.create(' Employee Tracker', 'Doom', (err, result) => {
+    Font.create(' Employee TrackerDB', 'Doom', (err, result) => {
         if (err) throw err;
         console.log(result);
     });
@@ -30,7 +30,7 @@ const init = async () => {
     //Clears Terminal after the preview messages are shown.
     await setTimeoutPromiseBased(1400);
     console.log('\n ' + '='.repeat(100) + '\n');
-    Font.create(`                      Let's Start!`, `Doom`, (err, result) => {
+    Font.create(`                      CLI Starting`, `Doom`, (err, result) => {
         if (err) throw err;
         console.log(result);
         console.log('='.repeat(100));
