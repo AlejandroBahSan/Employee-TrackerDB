@@ -22,6 +22,8 @@
 ## Usage:
 Employee Manager is a CLI designed to be able to perform tasks such as verifying employee roles, salaries and managers for each employee, as well as adding new     roles, employees with their respective salaries to the company's enrollment, all done from your CLI, basically an app for managing human resources.
 
+<div>
+ 
   ## Database Schema:
 <a href="https://github.com/AlejandroBahSan/AlejandroBahSan">
   <img align="center" src="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/db-reverseEng.jpg"  width="800" 
@@ -36,10 +38,19 @@ Employee Manager is a CLI designed to be able to perform tasks such as verifying
 <a href="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/code-snapshot2.png">
   <img align="right" src="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/code-snapshot2.png"  width="400" 
      height="550"/>
-</a>\
-
- ## Quick Demo
- ![Demo](https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/EmployeeTrackerDemoV.gif)
+</a><br>
+</div>
+ 
+ </a>
+ 
+ <div>
+ <h1> ## Quick Demo </h1>
+<a href="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/EmployeeTrackerDemoV.gif">
+  <img align="center" src="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/EmployeeTrackerDemoV.gif"  width="auto" 
+     height="auto"/>
+</a>
+ </div>
+ 
  
   ## Project License:
   ### MIT https://choosealicense.com/licenses/mit/
