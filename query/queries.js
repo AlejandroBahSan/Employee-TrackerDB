@@ -7,22 +7,20 @@ const connection = require('../config/connection');
 // String validation
 const stringTypeOf = async (input) => {
     // String Regular Expression
-    const regex = /^[a-zA-Z]+$/;
+    const regex = /[A-Z]/gi;
     if (input.match(regex) && input.length > 0) {
-        return 'Only string type allowed'
-    }
-    return true;
-};
+        return true;
+    }return 'Only string type allowed'
+};  
 
 
 // Number validation.
 const numberTypeOf = async (input) => {
     // Numeric Regular Expression
-    const regex = /^[0-9]+$/
+    const regex = /[0-9]/
     if (input.match(regex) && input.length > 0 && input !== ' ') {
-        return 'Only numbers are allowed';
-    }
-    return true;
+        return true;
+    }return 'Only numbers are allowed';
 };
 
 class Queries {
@@ -86,7 +84,7 @@ class Queries {
             }
         ]);
         await connection.promise().query(`
-        INSERT INTO employee_trackdb.department (name)
+        INSERT INTO employee_trackerdb.department (name)
         VALUES (?);`, addDepartmentPrompt.department)
         console.log(`Deparment name ${addDepartmentPrompt.department} Added!`);
     };
