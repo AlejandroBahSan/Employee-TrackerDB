@@ -30,11 +30,11 @@ Employee Manager is a CLI designed to be able to perform tasks such as verifying
 
 ## Code Snippets
 <a href="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/code-snapshot.png">
-  <img align="left" src="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/code-snapshot.png"  width="485" 
+  <img align="left" src="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/code-snapshot.png"  width="400" 
      height="550"/>
 </a>
 <a href="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/code-snapshot2.png">
-  <img align="right" src="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/code-snapshot2.png"  width="485" 
+  <img align="right" src="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/code-snapshot2.png"  width="400" 
      height="550"/>
 </a>\
 
