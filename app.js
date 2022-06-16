@@ -131,9 +131,9 @@ const userSelection = async (answer) => {
         case 'Exit':
             connection.end();
             console.log("\n                               ***********************************")
-            console.log("                               *                                  *")
-            console.log(`                               *      Connection Closed - ${connection.threadId}     *`)
-            console.log("                               *                                  *")
+            console.log("                               *                                 *")
+            console.log(`                               *     Connection Closed - ${connection.threadId}     *`)
+            console.log("                               *                                 *")
             console.log("                               ***********************************\n\n")
             break;
     }
