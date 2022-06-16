@@ -1,9 +1,12 @@
 # Employee_TrackerDB
  ### ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
   ## Table of Contents:
-  - #### [Installation](#installation)
+  - #### [Installation](#prerequisites)
   - #### [Usage](#usage)
-  - #### [License](#license)
+  - #### [Schema](#database-schema)
+  - #### [Snippets](#code-snippets)
+  - #### [Demo](#quick-demo)
+  - #### [License](#project-license)
   - #### [Contribution](#collaborators)
   - #### [Technologies](#tools)
   - #### [Question](#questions)
@@ -19,23 +22,29 @@
 ## Usage:
 Employee Manager is a CLI designed to be able to perform tasks such as verifying employee roles, salaries and managers for each employee, as well as adding new     roles, employees with their respective salaries to the company's enrollment, all done from your CLI, basically an app for managing human resources.
 
+ 
   ## Database Schema:
 <a href="https://github.com/AlejandroBahSan/AlejandroBahSan">
-  <img align="center" src="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/db-reverseEng.jpg"  width="800" 
-     height="400"/>
+  <img align="center" src="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/db-reverseEng.jpg"  width="800" height="400"/>
 </a>
 
 ## Code Snippets
-<a href="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/code-snapshot.png">
-  <img align="left" src="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/code-snapshot.png"  width="485" 
-     height="550"/>
-</a>
-<a href="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/code-snapshot2.png">
-  <img align="right" src="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/code-snapshot2.png"  width="485" 
-     height="550"/>
-</a>\
 
-  ## License:
+<p float="center">
+  <img align="center" src="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/code-snapshot.png" width="400" height="550" />
+  <img align="right"  src="https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/code-snapshot2.png" width="400" height="550" /> 
+ 
+</p>
+
+<p>
+ 
+## Quick Demo
+ #### Please check the full video clicking this link [Video](https://drive.google.com/file/d/1K7ASIxJZH_R8FCVPOZcz1G8ozCMpJ3ae/view?usp=sharing).
+ ![Demo](https://github.com/AlejandroBahSan/Employee-TrackerDB/blob/master/Assets/EmployeeTrackerDemoV.gif)
+</p>
+ 
+ 
+  ## Project License:
   ### MIT https://choosealicense.com/licenses/mit/
   ### Copyright (c) <year> <copyright holders>
 
@@ -73,4 +82,4 @@ Employee Manager is a CLI designed to be able to perform tasks such as verifying
  
   ## Questions:
   #### Github Profile: AlejandroBahSan
-  #### For aditional questions hmu via email: alejandro.bahsan@gmail.com
+  #### For aditional questions hmu by email: alejandro.bahsan@gmail.com
